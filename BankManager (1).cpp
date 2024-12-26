@@ -11,7 +11,7 @@
         ofstream managersFile("managers.txt");
         if (managersFile.is_open())
         {
-            managersFile << "BailBos" << endl;
+            managersFile << "Desmond" << endl;
             managersFile << "1234321" << endl;
             managersFile << endl << endl << endl;
             managersFile << "andeac24" << endl;
